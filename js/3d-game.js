@@ -1,5 +1,5 @@
 const appContainer = document.getElementById("app");
-const langSetting = document.getElementById("globe-icon");
+const langSetting = document.getElementById("langSetting");
 import { ThreeGame } from './3d-game-app.js'
 import { gameSettings } from './3d-setting.js';
 import { nicknames } from './3d-setting.js';
